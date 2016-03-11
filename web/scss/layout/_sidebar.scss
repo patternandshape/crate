@@ -62,7 +62,8 @@ input {
   border: 1px solid $crate-beige;
   padding: 10px 25px;
   width: 70%;
-  &[type="text"] {
+  &[type="text"],
+  &[type="password"] {
   font-size: .9em;
   border-radius: 25px;
   color: #666666;
@@ -101,7 +102,6 @@ input {
 
 h1 .c-logo {
   display: inline-block;
-  // animation: rotate 4s cubic-bezier(1,.48,.04,.96);
   animation: rotate 3s ease-out;
 }
 
@@ -125,4 +125,17 @@ h1 .c-logo {
     display: block;
     margin: auto;
   }
+  .login-form {
+    margin-bottom: 1.5em;
+  }
+  .create-account {
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
+}
+
+.account-form {
+  display: none;
+  margin-top: 0.5em;
 }
