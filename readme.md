@@ -22,8 +22,6 @@ CRATE is a responsive website for collecting, viewing, organizing and adding to 
 * Apache
 * PHPUnit
 * Silex
-* Atom
-* Terminal
 * Google Fonts
 * Font Awesome
 * Discogs API
@@ -68,4 +66,4 @@ https://github.com/patternandshape/crate.git
 
 *This software is licensed under the MIT license.*
 
-&copy;2016 **Molly Curtin, Lauryn Davis, Jeff Seymour, Eddie Duro, Yvonna Contreras and Erik Tolentino**
+&copy; 2016 **Molly Curtin, Lauryn Davis, Jeff Seymour, Eddie Duro, Yvonna Contreras and Erik Tolentino**
